@@ -11,4 +11,4 @@ services:
     ports:
       - '4000:14000'
     volumes:
-      - ./:/app
+      - ./src/:/app
